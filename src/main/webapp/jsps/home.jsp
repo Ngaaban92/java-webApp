@@ -39,8 +39,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
                 TechLink Academy, 
-		Dallas, Texas
-		+1 309-610-0057,
+		Zurich, Switzerland
+		+1 309-610-0128,
 		info@upgrade101.net
 		<br>
 		<a href="mailto:techlink237@gmail.com">Mail to TechLink Academy</a>
