@@ -95,14 +95,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>TechLink Academy Releases Nexus Repository</name>
-	      <url>http://3.142.209.18:8081/repository/linkpay-release/</url>
+	      <name>Darren-Release Nexus Repository</name>
+	      <url>http://98.84.137.57:8081/repository/Darren-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>TechLink Academy Snapshot Nexus Repository </name>
-	      <url>http://3.142.209.18:8081/repository/linkpay-snapshot/</url>
+	      <name>Darren-Snapshot Nexus Repository </name>
+	      <url>http://98.84.137.57:8081/repository/Darren-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
